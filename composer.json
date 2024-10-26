@@ -5,7 +5,7 @@
     "levex", "level", "level up", "leveling", "leveling system", "xp", "xp system", "experience", "game", "Experience Points"
   ],
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nabeghe/levex-php",
   "license": "MIT",
   "autoload": {
