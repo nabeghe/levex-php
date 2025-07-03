@@ -8,8 +8,6 @@ But fear not! Levex simplifies this process with just a few straightforward meth
 You can effortlessly implement this functionality without diving into complex calculations.
 Enjoy a seamless experience as you elevate your users’ journey!
 
-<hr>
-
 ## 🫡 Usage
 
 ### 🚀 Installation
@@ -19,8 +17,6 @@ You can install the package via composer:
 ```bash
 composer require nabeghe/levex
 ```
-
-<hr>
 
 ### Instance
 
@@ -70,8 +66,6 @@ use kyeword `const` or function `define`.
 | `LEVEX_GOD_LEVEL_SYMBOLS`     | related to `$levex->godLevelSymbols`    |
 | `LEVEX_NEGATIVE_LEVEL_IS_GOD` | related to `$levex->negativeLevelIsGod` |
 
-<hr>
-
 ### Methods
 
 #### `calcLevel(int $xp): int`
@@ -116,10 +110,6 @@ Checks whether the level is specific to the god or not.
 
 Retrives the name/title of a level.
 
-<hr>
-
 ## 📖 License
-
-Copyright (c) 2024 Hadi Akbarzadeh
 
 Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.

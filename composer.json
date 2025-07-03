@@ -1,18 +1,10 @@
 {
   "name": "nabeghe/levex",
   "description": "A simlpe leveling and experience (XP) system designed for PHP.",
-  "keywords": [
-    "levex", "level", "level up", "leveling", "leveling system", "xp", "xp system", "experience", "game", "Experience Points"
-  ],
+  "keywords": ["Experience Points", "experience", "game", "level", "level up", "leveling", "leveling system", "levex", "xp", "xp system"],
   "type": "library",
-  "version": "1.0.1",
   "homepage": "https://github.com/nabeghe/levex-php",
   "license": "MIT",
-  "autoload": {
-    "psr-4": {
-      "Nabeghe\\Levex\\": "src/"
-    }
-  },
   "authors": [
     {
       "name": "Hadi Akbarzadeh",
@@ -21,6 +13,11 @@
       "role": "Developer"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Nabeghe\\Levex\\": "src/"
+    }
+  },
   "require": {
     "php": ">=7.4"
   },
